@@ -1,4 +1,4 @@
-# ASL Hand Gesture Detection
+# ASL Hand Gesture Detection 
 
 This project is focused on detecting American Sign Language (ASL) gestures using OpenCV, cvzone, and TensorFlow/Keras for hand gesture classification. The goal is to build a real-time system that can recognize and classify different ASL hand signs.
 
