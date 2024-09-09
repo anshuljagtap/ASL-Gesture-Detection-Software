@@ -39,13 +39,13 @@ Project Images/Thank you data training.png
 | Gesture | Example |
 |---------|---------|
 | A | <img width="1440" alt="A detection" src="https://github.com/user-attachments/assets/4e26d400-18e2-4f99-bf08-baf7e8397d66"> |
-| B | ![Gesture B](./path_to_your_image/Screenshot 2024-09-09 at 6.23.49 PM.png) |
-| Thank You | ![Gesture Thank You](./path_to_your_image/Screenshot 2024-09-09 at 6.38.54 PM.png) |
+| B | <img width="1440" alt="B detection" src="https://github.com/user-attachments/assets/7edfd8ad-1bd3-40e6-8e12-fa4716b42b00"> |
+| Thank You | <img width="1440" alt="Thank you data training" src="https://github.com/user-attachments/assets/6128c6bf-2461-4ac2-a31d-444b4c54d1fa">|
 
 ## Model Training
 The data was labeled and trained using a simple convolutional neural network (CNN) using TensorFlow/Keras. The training was performed using **Google Teachable Machine**, where gestures were classified based on their image inputs. Below is a screenshot of the training pipeline:
 
-![Training pipeline](./path_to_your_image/Google_teachable.png)
+<img width="1431" alt="Google teachable" src="https://github.com/user-attachments/assets/83dd86dc-87f8-4784-acad-1cb4817fad3e">
 
 ## Results
 The model has shown promising results, with accurate classifications of the following gestures:
@@ -55,27 +55,17 @@ The model has shown promising results, with accurate classifications of the foll
 - D
 - Thank You
 
-Here’s an example of a successful prediction for the **Thank You** gesture:
 
-![Thank You Prediction](./path_to_your_image/Screenshot 2024-09-09 at 6.38.54 PM.png)
+
+
 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ASL-Detection.git
+   git clone https://github.com/yourusername/ASL-Gesture-Detection-Software.git
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-"/Users/anshuljagtap/Desktop/Personal Projects/ASL Detection/venv/bin/python" "/Users/anshuljagtap/Desktop/Personal Projects/ASL Detection/test.py"
-"/Users/anshuljagtap/Desktop/Personal Projects/ASL Detection/venv/bin/python" "/Users/anshuljagtap/Desktop/Personal Projects/ASL Detection/dataCollection.py"
+"/Users/<username>/Desktop/Personal Projects/ASL Detection/venv/bin/python" "/Users/<username>/Desktop/Personal Projects/ASL Detection/test.py"
+"/Users/<username>/Desktop/Personal Projects/ASL Detection/venv/bin/python" "/Users/<username>/Desktop/Personal Projects/ASL Detection/dataCollection.py"
