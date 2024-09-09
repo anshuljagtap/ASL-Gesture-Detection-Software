@@ -30,14 +30,15 @@ The project utilizes computer vision techniques and a pre-trained model to class
 Data for the model was collected using the webcam. The hand was detected, and images of different ASL signs were saved after cropping and resizing.
 
 Here is the data collection process for "Thank you":
-![Uploading Thank you detection.png…]()
+<img width="1440" alt="Thank you detection" src="https://github.com/user-attachments/assets/2f939f22-cea6-4141-990f-377ee7ab804f">
+
 
 Project Images/Thank you data training.png 
 
 
 | Gesture | Example |
 |---------|---------|
-| A | ![Gesture A](./path_to_your_image/Screenshot 2024-09-09 at 6.23.37 PM.png) |
+| A | <img width="1440" alt="A detection" src="https://github.com/user-attachments/assets/4e26d400-18e2-4f99-bf08-baf7e8397d66"> |
 | B | ![Gesture B](./path_to_your_image/Screenshot 2024-09-09 at 6.23.49 PM.png) |
 | Thank You | ![Gesture Thank You](./path_to_your_image/Screenshot 2024-09-09 at 6.38.54 PM.png) |
 
