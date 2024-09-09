@@ -30,6 +30,7 @@ The project utilizes computer vision techniques and a pre-trained model to class
 Data for the model was collected using the webcam. The hand was detected, and images of different ASL signs were saved after cropping and resizing.
 
 Here is the data collection process for "Thank you":
+![Uploading Thank you detection.png…]()
 
 Project Images/Thank you data training.png 
 
